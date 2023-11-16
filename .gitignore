@@ -1,0 +1,19 @@
+# Enviorment
+.venv/
+
+# Caching
+*.pyc
+__pycache__/
+
+# Instances
+instance/
+
+# Testing
+.pytest_cache/
+.coverage
+.htmlcov/
+
+# Builds
+dist/
+build/
+*.egg-info/

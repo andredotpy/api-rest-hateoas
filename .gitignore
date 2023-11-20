@@ -17,3 +17,6 @@ instance/
 dist/
 build/
 *.egg-info/
+
+# Macos
+.DS_Store
